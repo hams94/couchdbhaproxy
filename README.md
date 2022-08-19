@@ -1,4 +1,4 @@
-# CouchDB Cluster Sandbox
+# CouchDB Cluster HapProxy
 
 ## Introduction
 
