@@ -1,4 +1,4 @@
-# CouchDB Cluster HapProxy
+# CouchDB Cluster HapProxy With HTTP2
 
 ## Introduction
 
