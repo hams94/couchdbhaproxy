@@ -15,6 +15,7 @@ services:
       - cluster
     ports:
       - 5984:5984
+      - 443:443 #Ajout du port 443
   cluster-init:
     build: ./cluster-init
     image: cluster-init:latest
